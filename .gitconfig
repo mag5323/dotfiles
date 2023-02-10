@@ -1,0 +1,10 @@
+[alias]
+    st = status
+    co = commit
+    ck = checkout
+    br = branch
+[user]
+    email = mag5323@gmail.com
+    name = magzeng
+[core]
+	editor = vim
